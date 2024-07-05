@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+pydantic
+databases
+alembic
+passlib[bcrypt]
+pyjwt
+mysql-connector-python
+python-jose
+uvicorn 
